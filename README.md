@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ML-rus
-- 👀 I’m interested in Python and Rust
-- 🌱 I’m currently learning Python and Rust
-- 💞️ I’m looking to collaborate on ... I don't know now)
+- 👀 I’m interested in Python and SQL
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me: by email
 
 <!---
