@@ -1,6 +1,6 @@
 ## Hi, I’m Mikhail Leonov.
 
-My aim - position of business analyst.
+My aim - position of data analyst.
 
 I am experienced in:
 - business analysis
