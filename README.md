@@ -14,4 +14,4 @@ I am experienced in:
     * raw data
 - communication
 
-## <a href="https://github.com/ML-rus/ML_projects/">My prjects</a>
+## <a href="https://github.com/ML-rus/ML_projects/">My projects</a>
