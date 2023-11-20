@@ -15,3 +15,5 @@ I am experienced in:
 - communication
 
 ## <a href="https://github.com/ML-rus/ML_projects/">My projects</a>
+
+### <a haref"https://github.com/ML-rus/ML_projects/tree/main/HeadHunter">1. HeadHunter parser.</a>
