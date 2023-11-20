@@ -6,6 +6,7 @@ I am experienced in:
 - data analysis:
     * Python
     * SQL
+    * Excel
     * Tableau
     * DataLens
     * commercial KPI
