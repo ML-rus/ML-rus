@@ -1,9 +1,14 @@
 ## Hi, I’m Mikhail Leonov.
 
-My aim - a position of data analyst.
+<b>My aim:<br>a position of data analyst.</b>
 
 I am experienced in:
 - data analysis:
-    * Python: advanced
-    * SQL: advanced
+    * Python
+    * SQL
+    * Tableau
+    * DataLens
+    * commercial KPI
+    * ecom
+    * raw data preparing
 - communication
