@@ -10,5 +10,5 @@ I am experienced in:
     * DataLens
     * commercial KPI
     * ecom
-    * raw data preparing
+    * raw data
 - communication
