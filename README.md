@@ -1,6 +1,6 @@
-## Hi, I’m Mikhail Leonov.
+# Hi, I’m Mikhail Leonov.
 
-<b>My aim:<br>a position of data analyst.</b>
+## My aim:<br>a position of data analyst.
 
 I am experienced in:
 - data analysis:
@@ -13,3 +13,5 @@ I am experienced in:
     * ecom
     * raw data
 - communication
+
+## <a href="https://github.com/ML-rus/ML_projects/">My prjects</a>
